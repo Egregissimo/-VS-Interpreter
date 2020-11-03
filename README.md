@@ -1,2 +1,2 @@
-# -VS-Interpreter
-Pregetto del corso Verifica del Software
+# VS-Interpreter
+Progetto del corso Verifica del Software 19/20
